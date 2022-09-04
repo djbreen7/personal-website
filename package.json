@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "personal-website",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "A personal website built with React and Gatsby",
   "scripts": {
     "deploy": "gatsby build && gh-pages -d public",
     "clean": "gatsby clean",
@@ -18,30 +18,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
-  "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
-  },
-  "keywords": [
-    "react",
-    "gatsby",
-    "gatsby-theme",
-    "PWA",
-    "portfolio",
-    "showcase",
-    "minimal",
-    "animations",
-    "dark-mode",
-    "gdpr-compliant"
-  ],
   "devDependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "author": "Daniel J Breen",
+  "homepage": "https://dapperdan.dev"
 }
