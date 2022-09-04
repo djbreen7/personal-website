@@ -12,12 +12,13 @@
       "behance": "https://behance.com",
       "github": "https://github.com/djbreen7",
       "linkedin": "https://www.linkedin.com/in/djbreen/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:mail@konstantin.digital",
+      "medium": "https://medium.com/@dapperdandev"
     }
   },
   "siteConfiguration": {
     "logo": {
-      "text": "Daniel Breen"
+      "text": "dapperdan.dev"
     },
     "navigation": {
       "header": [{
@@ -25,8 +26,9 @@
           "url": "/#about"
         },
         {
+          "openNewTab": true,
           "label": "Blog",
-          "url": "/blog"
+          "url": "https://medium.com/@dapperdandev"
         },
         {
           "label": "Projects",

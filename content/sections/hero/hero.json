@@ -1,5 +1,5 @@
 {
-  "intro": "Hi!",
+  "intro": "Daniel J Breen",
   "heroPhoto": {
     "src": "../../images/profile.png",
     "alt": "My Photo"
@@ -8,13 +8,11 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Software Engineer",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "JavaScript/TypeScript | C# | Go | Python"
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "",
   "socialProfiles": {
     "from": [
       "LinkedIn",
