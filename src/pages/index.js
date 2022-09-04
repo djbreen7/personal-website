@@ -12,7 +12,7 @@ import {
 export default function IndexPage() {
   return (
     <>
-      <Seo title="Daniel Breen" />
+      <Seo title="Daniel J Breen" />
       <Page>
         <HeroSection sectionId="hero" />
         <ArticlesSection
